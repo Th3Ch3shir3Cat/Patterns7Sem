@@ -1,0 +1,29 @@
+﻿  PatternsLab3.cpp
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(20,51): error C2061: синтаксическая ошибка: идентификатор "Ticket"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(23,3): error C2065: bbuilder: необъявленный идентификатор
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(24,3): error C2065: bbuilder: необъявленный идентификатор
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(50,1): error C2661: Snapshot::Snapshot: нет перегруженной функции, принимающей 3 аргументов
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\SoldTickets.h(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\MessageText.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\shoppingBascet.h(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\adapter.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\CompoundEvents.h(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\AllSportArena.h(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\PatternsLab3.cpp(113,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Ticket.cpp
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(15,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(20,51): error C2061: синтаксическая ошибка: идентификатор "Ticket"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(23,3): error C2065: bbuilder: необъявленный идентификатор
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(24,3): error C2065: bbuilder: необъявленный идентификатор
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(50,1): error C2661: Snapshot::Snapshot: нет перегруженной функции, принимающей 3 аргументов
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.cpp(3,61): error C2511: Snapshot::Snapshot(Ticket *,int,int): перегруженная функция-член не найдена в "Snapshot"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.h(13): message : см. объявление "Snapshot"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.cpp(4,2): error C2671: Snapshot::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.cpp(5,2): error C2671: Snapshot::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\gerbe\source\repos\PatternsLab3\PatternsLab3\Ticket.cpp(6,2): error C2671: Snapshot::{ctor}: статические функции-члены не имеют указателей "this"
+  Создание кода...
